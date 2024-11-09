@@ -22,7 +22,7 @@ return (
                 </div>
                 {/* hero images  */}
                 <div className="hero-image">
-                    <img src="/Images/register.jpg" alt="codding together " width="200" height="200"/>
+                    <img src="./Images/register.jpg" alt="codding together " width="200" height="200"/>
                 </div>
             </div>
         </section>
