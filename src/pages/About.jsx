@@ -20,7 +20,7 @@ export const About=()=>{
     
 </div>
       <div className="hero-image">
-         <img src="Images/register.jpg" alt="It about us"  height="300" width="250"/>
+         <img src="Images/register.jpg" alt="It about us"  height="300" width="350"/>
       </div>
       <div className="btn btn-group">
             <a href="/contact">
